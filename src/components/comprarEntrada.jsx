@@ -84,6 +84,10 @@ function comprarEntrada() {
     }
   };
 
+  const handleSubmit = () => {
+
+  };
+  
   return (
     <div className='col'>
       <div className="card flex flex-wrap gap-3 p-fluid">
